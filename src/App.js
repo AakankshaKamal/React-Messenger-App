@@ -83,7 +83,7 @@ const pickEmoji=(e,{emoji})=>{
 
   const theme=(event)=>{
     
-    //add multicolr themes
+    //add multicolr themes here
     if(dark===false)
     {
       document.body.classList.add('dark-bg');
